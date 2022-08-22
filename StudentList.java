@@ -108,6 +108,7 @@ public class StudentList {
             } catch (Exception e) {
             }
         }else{
+             /* worng argument handled */
              System.out.println(allString.printWrongArgument);
         }
     }
